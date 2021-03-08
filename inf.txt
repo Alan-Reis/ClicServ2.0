@@ -1,0 +1,5 @@
+Descrição da atualização:
+
+- Adicionado o campo fabricante e complemento no Relatório de Atendimento geral
+- Adicionado o campo fabricante, complemento e bairro no Relatório do Cliente
+- Adicionado o campo fabricante, complemento e bairro no Relatório do Cliente Individual

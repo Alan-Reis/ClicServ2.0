@@ -1,0 +1,401 @@
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe.config
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbprojResolveAssemblyReference.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Resources.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.GenerateResource.Cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Home.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Cadastro.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Detalhar.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiroAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiraOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\BDClicServ.accdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\EnvDTE.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\stdole.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimentoCliente.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioIndividual.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\BDClicServ.accdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe.config
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\EnvDTE.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\stdole.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbprojResolveAssemblyReference.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Cadastro.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Detalhar.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Home.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiraOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiroAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Resources.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimentoCliente.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioIndividual.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.GenerateResource.Cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 08.01.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\BDClicServ.accdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe.config
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\EnvDTE.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\stdole.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbprojResolveAssemblyReference.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Cadastro.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Detalhar.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Home.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiraOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiroAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.Resources.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimentoCliente.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioIndividual.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.GenerateResource.Cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\EnvDTE80.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\VSLangProj.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\VSLangProj80.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\VSLangProj2.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0\ClicServ 2.0\obj\Debug\ClicServ 2.0.exe.config
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\BDClicServ.accdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe.config
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\EnvDTE.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\stdole.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbprojAssemblyReference.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Cadastro.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Detalhar.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Home.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.NovoOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiraOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.PrimeiroAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.Resources.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimento.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioAtendimentoCliente.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioIndividual.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ_2._0.RelatórioOS.resources
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.GenerateResource.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.vbproj.CopyComplete
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.exe
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.xml
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\obj\Debug\ClicServ 2.0.pdb
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alanc\Desktop\ALAN C REIS\Projeto Visual Studio\Projeto ClickServ\ClicServ 2.0 - BACKUP\ClicServ 2.0 - 25.05.18\ClicServ 2.0\bin\Debug\Microsoft.SqlServer.Types.dll
