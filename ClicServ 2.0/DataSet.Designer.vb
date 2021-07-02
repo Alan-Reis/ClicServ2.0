@@ -5379,7 +5379,8 @@ Namespace DataSetTableAdapters
             Me._commandCollection(0) = New Global.System.Data.OleDb.OleDbCommand()
             Me._commandCollection(0).Connection = Me.Connection
             Me._commandCollection(0).CommandText = "SELECT ID, Nome, CPF, Endereço, Bairro, Condomínio, Apt, Complemento, Telefone, C"& _ 
-                "elular, Email, Equip, Fabricante, Modelo, Série FROM dbo_Cadastro"
+                "elular, Email, Equip, Fabricante, Modelo, Série FROM dbo_Cadastro"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"ORDER BY ID D"& _ 
+                "ESC"
             Me._commandCollection(0).CommandType = Global.System.Data.CommandType.Text
             Me._commandCollection(1) = New Global.System.Data.OleDb.OleDbCommand()
             Me._commandCollection(1).Connection = Me.Connection
@@ -5430,23 +5431,23 @@ Namespace DataSetTableAdapters
             Me._commandCollection(3).Parameters.Add(New Global.System.Data.OleDb.OleDbParameter("Original_ID", Global.System.Data.OleDb.OleDbType.[Integer], 0, Global.System.Data.ParameterDirection.Input, CType(0,Byte), CType(0,Byte), "ID", Global.System.Data.DataRowVersion.Original, false, Nothing))
             Me._commandCollection(4) = New Global.System.Data.OleDb.OleDbCommand()
             Me._commandCollection(4).Connection = Me.Connection
-            Me._commandCollection(4).CommandText = "SELECT        ID, Nome, CPF, Endereço, Bairro, Condomínio, Apt, Complemento, Tele"& _ 
-                "fone, Celular, Equip, Fabricante, Modelo, Série"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM            dbo_Cadastro"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"W"& _ 
-                "HERE        (Nome LIKE ?)"
+            Me._commandCollection(4).CommandText = "SELECT Apt, Bairro, CPF, Celular, Complemento, Condomínio, Email, Endereço, Equip"& _ 
+                ", Fabricante, ID, Modelo, Nome, Série, Telefone FROM dbo_Cadastro WHERE (Nome LI"& _ 
+                "KE ?)"
             Me._commandCollection(4).CommandType = Global.System.Data.CommandType.Text
             Me._commandCollection(4).Parameters.Add(New Global.System.Data.OleDb.OleDbParameter("Nome", Global.System.Data.OleDb.OleDbType.WChar, 255, Global.System.Data.ParameterDirection.Input, CType(0,Byte), CType(0,Byte), "Nome", Global.System.Data.DataRowVersion.Current, false, Nothing))
             Me._commandCollection(5) = New Global.System.Data.OleDb.OleDbCommand()
             Me._commandCollection(5).Connection = Me.Connection
-            Me._commandCollection(5).CommandText = "SELECT        ID, Nome, CPF, Endereço, Bairro, Condomínio, Apt, Complemento, Tele"& _ 
-                "fone, Celular, Email, Equip, Fabricante, Modelo, Série"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM            dbo_Cada"& _ 
-                "stro"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"WHERE        (ID LIKE ?)"
+            Me._commandCollection(5).CommandText = "SELECT Apt, Bairro, CPF, Celular, Complemento, Condomínio, Email, Endereço, Equip"& _ 
+                ", Fabricante, ID, Modelo, Nome, Série, Telefone FROM dbo_Cadastro WHERE (ID LIKE"& _ 
+                " ?)"
             Me._commandCollection(5).CommandType = Global.System.Data.CommandType.Text
             Me._commandCollection(5).Parameters.Add(New Global.System.Data.OleDb.OleDbParameter("ID", Global.System.Data.OleDb.OleDbType.[Integer], 0, Global.System.Data.ParameterDirection.Input, CType(0,Byte), CType(0,Byte), "ID", Global.System.Data.DataRowVersion.Current, false, Nothing))
             Me._commandCollection(6) = New Global.System.Data.OleDb.OleDbCommand()
             Me._commandCollection(6).Connection = Me.Connection
-            Me._commandCollection(6).CommandText = "SELECT        ID, Nome, CPF, Endereço, Bairro, Condomínio, Apt, Complemento, Tele"& _ 
-                "fone, Celular, Equip, Fabricante, Modelo, Série"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM            dbo_Cadastro"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"W"& _ 
-                "HERE        (Condomínio LIKE ?)"
+            Me._commandCollection(6).CommandText = "SELECT Apt, Bairro, CPF, Celular, Complemento, Condomínio, Email, Endereço, Equip"& _ 
+                ", Fabricante, ID, Modelo, Nome, Série, Telefone FROM dbo_Cadastro WHERE (Condomí"& _ 
+                "nio LIKE ?)"
             Me._commandCollection(6).CommandType = Global.System.Data.CommandType.Text
             Me._commandCollection(6).Parameters.Add(New Global.System.Data.OleDb.OleDbParameter("Condomínio", Global.System.Data.OleDb.OleDbType.WChar, 255, Global.System.Data.ParameterDirection.Input, CType(0,Byte), CType(0,Byte), "Condomínio", Global.System.Data.DataRowVersion.Current, false, Nothing))
         End Sub

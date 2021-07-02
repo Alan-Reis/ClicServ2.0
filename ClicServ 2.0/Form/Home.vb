@@ -26,7 +26,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM dbo_Cadastro"
+                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM dbo_Cadastro ORDER BY ID DESC"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
