@@ -12,3 +12,8 @@ Namespace DataSetTableAdapters
     Partial Public Class RelatórioAtendimentoTableAdapter
     End Class
 End Namespace
+
+Namespace DataSetTableAdapters
+    Partial Public Class CadastroTableAdapter
+    End Class
+End Namespace

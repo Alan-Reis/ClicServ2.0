@@ -9,7 +9,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,OS FROM OS"
+                Dim sql As String = "SELECT ID,OS FROM dbo_OS"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
@@ -26,7 +26,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM Cadastro"
+                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM dbo_Cadastro"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
@@ -43,7 +43,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,OS FROM OS WHERE OS LIKE '%" & txtPesquisar_OS.Text & "%'"
+                Dim sql As String = "SELECT ID,OS FROM dbo_OS WHERE OS LIKE '%" & txtPesquisar_OS.Text & "%'"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
@@ -60,7 +60,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM Cadastro WHERE Nome LIKE '%" & txtBuscar.Text & "%'"
+                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM dbo_Cadastro WHERE Nome LIKE '%" & txtBuscar.Text & "%'"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
@@ -77,7 +77,7 @@ Public Class Home
         Using con As OleDbConnection = Getconnection()
             Try
                 con.Open()
-                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM Cadastro WHERE Condomínio LIKE '%" & txtBuscarII.Text & "%'"
+                Dim sql As String = "SELECT ID,Nome,Condomínio,Apt FROM dbo_Cadastro WHERE Condomínio LIKE '%" & txtBuscarII.Text & "%'"
                 Dim cmd As OleDbCommand = New OleDbCommand(sql, con)
                 Dim da As OleDbDataAdapter = New OleDbDataAdapter(cmd)
                 Dim dt As DataTable = New DataTable
